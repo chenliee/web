@@ -145,8 +145,8 @@ const Scene = () => {
       <Environment
         files={
           isMobileDevice
-            ? "/web/bg.hdr"
-            : "/web/bg.hdr"
+            ? "/bg.hdr"
+            : "/bg.hdr"
         }
         background
       />
